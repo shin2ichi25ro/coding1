@@ -1,0 +1,28 @@
+.container{
+  max-width: 1140px;
+  margin:0 auto;
+}
+
+.header{
+  background-color: steelblue;
+  color: white;
+}
+
+.main{
+  display: flex;
+  background-color: pink;
+}
+
+.content{
+  flex: 5;
+  background-color: lightseagreen;
+}
+
+.side{
+  flex: 2;
+  background-color: lightblue;
+}
+
+.footer{
+  background-color: gray;
+}
